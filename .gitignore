@@ -68,3 +68,29 @@ apps/nextjs/public/images/background.png
 
 # next-intl
 en.d.json.ts
+
+# ── GSD baseline (auto-generated) ──
+.gsd
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+*.code-workspace
+.env.*
+!.env.example
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.venv/
+venv/
+target/
+vendor/
+coverage/
+.cache/
+tmp/
+
+.claude/
+
